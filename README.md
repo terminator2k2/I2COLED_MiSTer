@@ -2,6 +2,8 @@
 
 For 2 colour oled screens(some are 3 colour with yellow header)
 
+![Alt text](https://github.com/terminator2k2/I2COLED_MiSTer/blob/main/pics/5.jpg?raw=true)
+
 MiSTer_i2c2oled
 Same Pictures as what Update_all fetches , But Header has been inverted.
 
