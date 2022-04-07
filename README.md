@@ -1,8 +1,12 @@
 # I2COLED_MiSTer
 
+For 2 colour oled screens(some are 3 colour with yellow header)
+
 MiSTer_i2c2oled
 Same Pictures as what Update_all fetches , But Header has been inverted.
 Thanks To Venice1200
+
+
 
 
 Links:
